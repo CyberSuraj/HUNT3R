@@ -16,7 +16,9 @@ A powerful mobile number intelligence tool that extracts detailed information fr
 📋 Prerequisites
 
 · Python 3.6 or higher
+
 · Internet connection
+
 · requests and colorama libraries
 
 🚀 Installation
