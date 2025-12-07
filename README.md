@@ -89,3 +89,43 @@ python3 hunter.py
    · Type clear to refresh the screen
    · Type exit to quit the tool
    · Press Ctrl+C for emergency shutdown
+
+
+⚠️ Disclaimer
+
+This tool is for educational and authorized security testing purposes only.
+
+· The developer is not responsible for any misuse of this tool
+· Use only on numbers you own or have permission to test
+· Illegal activities are strictly prohibited
+· Respect privacy and follow applicable laws in your region
+
+🔄 Updates
+
+The tool is regularly updated with:
+
+· Bug fixes
+· Performance improvements
+· New features
+· Security enhancements
+
+Check for updates regularly by visiting the GitHub repository.
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🌟 Star History
+
+If you find this tool useful, please consider giving it a star on GitHub!
+
+🙏 Acknowledgments
+
+· Thanks to all contributors and testers
+· Special thanks to the cybersecurity community
+· API providers for making this tool possible
+
+--
+
+Made with ❤️ by RajPut Suraj Raj 🇮🇳
+Stay Secure, Stay Anonymous! 🔒
