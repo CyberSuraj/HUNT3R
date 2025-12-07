@@ -127,5 +127,6 @@ If you find this tool useful, please consider giving it a star on GitHub!
 
 --
 
-Made with ❤️ by RajPut Suraj Raj 🇮🇳
+Made with ❤️ By RajPut Suraj Raj 🇮🇳
+
 Stay Secure, Stay Anonymous! 🔒
